@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Studying Medieninformatik at Hochschule der Medien Stuttgart.</p>
+<p align="left">Studying computer science and media at Hochschule der Medien, Stuttgart.</p>
 
 ###
 
