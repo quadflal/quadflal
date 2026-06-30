@@ -1,7 +1,5 @@
 # @quadflal
 
----- 
-
 ## What I enjoy
 
 - Creating robust Backends
