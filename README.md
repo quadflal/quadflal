@@ -1,31 +1,26 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# @quadflal
 
-###
+---- 
 
-<p align="left">My name is Alex and I'm a Student, from Germany.</p>
+## What I enjoy
 
-###
+- Creating robust Backends
+- Designing REST-APIs using OpenAPI specification
+- Hexagonal architecture
+- Implementing Machine learning projects
+- Analyzing datasets
+- Project management and team collaboration
 
-<h2 align="left">About me</h2>
+## What I like working with
 
-###
+- **Backend:** Java, Spring Boot
+- **Frontend:** Angular
+- **Data/ML:** Python, Pandas, NumPy, Scikit-learn, TensorFlow
+- **Visualization:** Matplotlib, Seaborn, Plotly
+- **DevOps:** Docker, Terraform
 
-<p align="left">Studying computer science and media at Hochschule der Medien, Stuttgart.</p>
+## What I am currently working on
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
+- **SchnitzelDonnerstag:** Doing an analysis on meals at several canteens in Stuttgart.
+- **LookingDown:** A project to automize the capture of pictures provided by weather satellites.
+- **Personal Website:** Building a personal website to showcase my projects and skills.
